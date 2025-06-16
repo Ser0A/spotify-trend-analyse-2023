@@ -6,7 +6,7 @@ TOKEN_URL = "https://accounts.spotify.com/api/token"
 SEARCH_URL = "https://api.spotify.com/v1/search"
 TRACK_URL = "https://api.spotify.com/v1/tracks/{id}"
 
-CLIENT_ID = "d1afc30fc0c146a691160bcbab3cceb8"
+CLIENT_ID = "Gebruik eigen ID"
 CLIENT_SECRET = "Gebruik eigen ID"
 
 def get_token(client_id, client_secret):
